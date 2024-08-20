@@ -1,38 +1,49 @@
-.App {
-  text-align: center;
+.gora {
+  background: center / cover no-repeat url("../public/images/legitka-gora.png");
+  width: auto;
+  height: 48px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.date {
+  font-size: small;
+  background: center / cover no-repeat url("../public/images/legitka-nagodzine.png");
+  width: auto;
+  height: 40px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: gray;
+  padding-bottom: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+
+.cialo {
+  background: center / cover no-repeat url("../public/images/legitkabody.png");
+  width: auto;
+  height: 667px;
+  display: grid;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.profil {
+  bottom: -21px;
+  left: 30px;
+  width: 125px;
+  height: 163px;
+  position: relative;
+  border-radius: 20px;
+}
+
+.flaga {
+  width: 55px;
+  height: 45px;
+  position: relative;
+  bottom: 200px;
+  left: 30px;
+}
+
+.dol {
+  background: center / cover no-repeat url("../public/images/legitkadol.JPEG");
+  width: 610px;
+  height: 96px;
 }
