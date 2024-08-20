@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/legitymacja/static/css/main.c6bfd2a9.css",
-    "main.js": "/legitymacja/static/js/main.0d6065e5.js",
+    "main.js": "/legitymacja/static/js/main.25e56947.js",
     "static/js/453.67d01a8f.chunk.js": "/legitymacja/static/js/453.67d01a8f.chunk.js",
     "static/media/legitkabody.png": "/legitymacja/static/media/legitkabody.7263e74587fd1fa12ecc.png",
     "static/media/legitkadol.JPEG": "/legitymacja/static/media/legitkadol.c356bd991fdcf18000d9.JPEG",
     "index.html": "/legitymacja/index.html",
     "main.c6bfd2a9.css.map": "/legitymacja/static/css/main.c6bfd2a9.css.map",
-    "main.0d6065e5.js.map": "/legitymacja/static/js/main.0d6065e5.js.map",
+    "main.25e56947.js.map": "/legitymacja/static/js/main.25e56947.js.map",
     "453.67d01a8f.chunk.js.map": "/legitymacja/static/js/453.67d01a8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bfd2a9.css",
-    "static/js/main.0d6065e5.js"
+    "static/js/main.25e56947.js"
   ]
 }
