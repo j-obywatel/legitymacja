@@ -34,12 +34,12 @@ function App() {
       </div>
       <div className="cialo">
         <img
-          // src="https://jacob-jk.github.io/legitymacja/images/zdjecie.png"
+          src="https://j-obywatel.github.io/legitymacja/images/zdjecie.png"
           alt="profil"
           className="profil"
         />
         <img
-          // src="https://jacob-jk.github.io/legitymacja/images/flaga.gif"
+          src="https://j-obywatel.github.io/legitymacja/images/flaga.gif"
           alt="flaga"
           className="flaga"
         />
