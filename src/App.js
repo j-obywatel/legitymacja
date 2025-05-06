@@ -7,10 +7,9 @@ function App() {
   const myDate = date.toLocaleString("pl-PL", {
     minute: "numeric",
     hour: "2-digit",
-    second: "2-digit",
   });
   const mySecondDate = date.toLocaleString("pl-PL", {
-    day: "numeric",
+    day: "2-digit",
     month: "numeric",
     year: "numeric",
   });
@@ -26,26 +25,20 @@ function App() {
   }, []);
 
   return (
-    <div className="calosc">
+    <>
       <div className="gora"></div>
-      <div className="date">
-        Czas: {myDate} {""}
-        {mySecondDate}
+      <div className="srodek">
+        <div className="projekt">
+          <div className="profil"></div>
+        </div>
+        <div className="date">
+          {mySecondDate} {""}
+          {myDate}
+        </div>
       </div>
-      <div className="cialo">
-        <img
-          src="https://j-obywatel.github.io/legitymacja/images/zdjecie.png"
-          alt="profil"
-          className="profil"
-        />
-        <img
-          src="https://j-obywatel.github.io/legitymacja/images/flaga.gif"
-          alt="flaga"
-          className="flaga"
-        />
-      </div>
-      <div className="dol"></div>
-    </div>
+      <div className="dol" />
+      <div className="whitespace" />
+    </>
   );
 }
 

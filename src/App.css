@@ -1,8 +1,4 @@
-.gora {
-  background: center / cover no-repeat url("../public/images/legitka-gora.png");
-  width: auto;
-  height: 48px;
-}
+/* 
 
 .date {
   font-size: small;
@@ -25,14 +21,7 @@
 }
 
 
-.profil {
-  bottom: -21px;
-  left: 30px;
-  width: 125px;
-  height: 163px;
-  position: relative;
-  border-radius: 20px;
-}
+
 
 .flaga {
   width: 55px;
@@ -42,8 +31,138 @@
   left: 30px;
 }
 
+/* .dol {
+background: center / cover no-repeat url("../public/images/legitkadol.JPEG");
+width: 610px;
+height: 96px;
+}
+
+.kont {
+  height: 667px;
+  width: 375px;
+}
+
+.nic {
+  background: center / cover no-repeat url("nic.jpg");
+  height: 100%;
+  width: 100%;
+} */
+
+.one {
+  height: 48px;
+  width: 375px;
+  background: center / cover no-repeat url("../public/images/tlo.png");
+  display: flex;
+  align-items: center;
+}
+
+.one2 {
+  background: center / cover no-repeat url("../public/images/strzala.png");
+  height: 15px;
+  width: 15px;
+  margin-left: 10px;
+  font-size: 500;
+}
+
+.one3 {
+  color: white;
+  padding-left: 70px;
+  font-weight: bold;
+}
+
+.one4 {
+  background: center / cover no-repeat url("../public/images/kropki.png");
+  height: 15px;
+  width: 15px;
+  float: right;
+  margin-left: 78px;
+}
+
+
+.two {
+  display: flex;
+  align-items: center;
+
+}
+
+.orzel {
+  background: center / cover no-repeat url("../public/images/orzel.png");
+  height: 59px;
+  width: 55px;
+}
+
+.flaga {
+  width: 55px;
+  height: 45px;
+  position: relative;
+  left: 95px;
+  background: center / cover no-repeat url("../public/images/flag1.gif");
+
+}
+
+.three {
+  display: flex;
+  align-items: center;
+  font-size: small;
+}
+
+.bodylegit {
+  background: center / cover no-repeat url("../public/images/bodylegitki.png");
+  width: 375px;
+  height: 610px;
+  ;
+}
+
 .dol {
   background: center / cover no-repeat url("../public/images/legitkadol.JPEG");
-  width: 610px;
-  height: 96px;
+  width: 390px;
+  height: 63px;
+}
+
+.date {
+  font-size: small;
+  width: auto;
+  height: 446px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-left: 29px;
+  font-weight: bold;
+}
+
+.srodek {
+  background: center / cover no-repeat url("../public/images/oryginal2.png");
+  height: 640px;
+  width: 390px;
+}
+
+.gora {
+  background: center / cover no-repeat url("../public/images/legitka-gora.png");
+  width: 390px;
+  height: 48px;
+}
+
+.projekt {
+  background: center / cover no-repeat url("../public/images/projekt.gif");
+  width: 55px;
+  height: 45px;
+  float: right;
+  margin-right: 18px;
+  margin-top: 15px;
+}
+
+.profil {
+  bottom: -101px;
+  right: 301px;
+  width: 127px;
+  height: 169px;
+  position: relative;
+  border-radius: 20px;
+  background: center / cover no-repeat url("../public/images/zdjecie.png");
+}
+
+.whitespace {
+  background: center / cover no-repeat url("../public/images/tloo.jpg");
+  width: 390px;
+  height: 148px;
 }
