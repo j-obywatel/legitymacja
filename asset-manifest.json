@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/legitymacja/static/css/main.879611ef.css",
+    "main.css": "/legitymacja/static/css/main.fe9df790.css",
     "main.js": "/legitymacja/static/js/main.9f87bf8b.js",
     "static/js/453.67d01a8f.chunk.js": "/legitymacja/static/js/453.67d01a8f.chunk.js",
-    "static/media/zdjecie.png": "/legitymacja/static/media/zdjecie.3184fb91236a3bc8ba28.png",
+    "static/media/zdjecie.png": "/legitymacja/static/media/zdjecie.7b237e3f3352d1582f21.png",
     "static/media/projekt.gif": "/legitymacja/static/media/projekt.2ab6de727b14df5f434b.gif",
     "static/media/oryginal2.png": "/legitymacja/static/media/oryginal2.464bb23921a43d4397ca.png",
     "static/media/flag1.gif": "/legitymacja/static/media/flag1.802309c419ad3572cd16.gif",
@@ -13,12 +13,12 @@
     "static/media/tlo.png": "/legitymacja/static/media/tlo.6599770d4fce9dc5286c.png",
     "static/media/kropki.png": "/legitymacja/static/media/kropki.4711a56074343c2494fd.png",
     "index.html": "/legitymacja/index.html",
-    "main.879611ef.css.map": "/legitymacja/static/css/main.879611ef.css.map",
+    "main.fe9df790.css.map": "/legitymacja/static/css/main.fe9df790.css.map",
     "main.9f87bf8b.js.map": "/legitymacja/static/js/main.9f87bf8b.js.map",
     "453.67d01a8f.chunk.js.map": "/legitymacja/static/js/453.67d01a8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.879611ef.css",
+    "static/css/main.fe9df790.css",
     "static/js/main.9f87bf8b.js"
   ]
 }
