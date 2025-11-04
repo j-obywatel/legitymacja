@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/legitymacja/static/css/main.6398931b.css",
+    "main.css": "/legitymacja/static/css/main.eff80f3b.css",
     "main.js": "/legitymacja/static/js/main.9f87bf8b.js",
     "static/js/453.67d01a8f.chunk.js": "/legitymacja/static/js/453.67d01a8f.chunk.js",
     "static/media/zdjecie.png": "/legitymacja/static/media/zdjecie.7b237e3f3352d1582f21.png",
-    "static/media/oryginal2.png": "/legitymacja/static/media/oryginal2.464bb23921a43d4397ca.png",
     "static/media/projekt.gif": "/legitymacja/static/media/projekt.802309c419ad3572cd16.gif",
+    "static/media/original.png": "/legitymacja/static/media/original.2408b3943de9d886d534.png",
     "static/media/bodylegitki.png": "/legitymacja/static/media/bodylegitki.06f3aec0a976d20aa7ed.png",
     "static/media/strzala.png": "/legitymacja/static/media/strzala.dff4a7ed4f128d5b534d.png",
     "static/media/legitkadol.JPEG": "/legitymacja/static/media/legitkadol.c356bd991fdcf18000d9.JPEG",
     "static/media/tlo.png": "/legitymacja/static/media/tlo.6599770d4fce9dc5286c.png",
     "static/media/kropki.png": "/legitymacja/static/media/kropki.4711a56074343c2494fd.png",
     "index.html": "/legitymacja/index.html",
-    "main.6398931b.css.map": "/legitymacja/static/css/main.6398931b.css.map",
+    "main.eff80f3b.css.map": "/legitymacja/static/css/main.eff80f3b.css.map",
     "main.9f87bf8b.js.map": "/legitymacja/static/js/main.9f87bf8b.js.map",
     "453.67d01a8f.chunk.js.map": "/legitymacja/static/js/453.67d01a8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6398931b.css",
+    "static/css/main.eff80f3b.css",
     "static/js/main.9f87bf8b.js"
   ]
 }
