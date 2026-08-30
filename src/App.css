@@ -114,12 +114,10 @@ height: 96px;
 .date {
   font-size: small;
   width: auto;
-  height: 446px;
+  height: 90px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  margin-left: 29px;
-  font-weight: bold;
 }
 
 .srodek {
@@ -136,20 +134,20 @@ height: 96px;
 
 .projekt {
   background: center / cover no-repeat url("../public/images/projekt.gif");
-  width: 55px;
-  height: 41px;
-  float: right;
-  margin-right: 18px;
-  margin-top: 15px;
+  width: 65px;
+  height: 50px;
+  float: left;
+  margin-left: 33px;
+  margin-top: 40px;
 }
 
 .profil {
-  bottom: -101px;
-  right: 301px;
+  bottom: -30px;
+  margin-left: 32px;
   width: 127px;
   height: 169px;
   position: relative;
-  border-radius: 25px;
+  border-radius: 14px;
   background: center / cover no-repeat url("../public/images/zdjecie.png");
 }
 
@@ -157,4 +155,10 @@ height: 96px;
   background: center / cover no-repeat url("../public/images/tloo.jpg");
   width: 390px;
   height: 148px;
+}
+
+.nowa {
+  background: center / cover no-repeat url("../public/images/nowa.png");
+  width: 390px;
+  height: 815px;
 }
