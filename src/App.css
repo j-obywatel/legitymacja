@@ -107,7 +107,7 @@ height: 96px;
 .dol {
   background: center / cover no-repeat url("../public/images/legitkadol.png");
   width: 390px;
-  height: 52px;
+  height: 70px;
   margin-top: -10px;
 }
 
@@ -153,9 +153,9 @@ height: 96px;
 }
 
 .whitespace {
-  background: center / cover no-repeat url("../public/images/tloo.jpg");
+  background: center / cover no-repeat url("../public/images/tloo.png");
   width: 390px;
-  height: 148px;
+  height: 50px;
 }
 
 .nowa {
