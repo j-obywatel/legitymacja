@@ -27,7 +27,7 @@ function App() {
 
   return (
     <>
-      {/* <div className="gora" /> */}
+      <div className="gora" />
       <div className="nowa">
         <div className="date">
           Czas: {myDate} {""}
