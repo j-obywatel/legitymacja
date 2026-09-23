@@ -134,7 +134,7 @@ height: 96px;
 
 .projekt {
   background: center / cover no-repeat url("../public/images/flaga.gif");
-  width: 65px;
+  width: 60px;
   height: 50px;
   float: left;
   margin-left: 30px;
@@ -143,10 +143,10 @@ height: 96px;
 }
 
 .profil {
-  bottom: -29px;
-  margin-left: 28px;
-  width: 129px;
-  height: 170px;
+  bottom: -26px;
+  margin-left: 32px;
+  width: 125px;
+  height: 167px;
   position: relative;
   border-radius: 14px;
   background: center / cover no-repeat url("../public/images/zdjecie.png");
@@ -161,5 +161,5 @@ height: 96px;
 .nowa {
   background: center / cover no-repeat url("../public/images/nowa.png");
   width: 390px;
-  height: 740px;
+  height: 690px;
 }
