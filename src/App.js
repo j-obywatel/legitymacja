@@ -35,6 +35,7 @@ function App() {
         <div className="profil"></div>
         <div className="projekt"></div>
       </div>
+      <div className="dol" />
 
       {/* <div className="gora"></div>
       <div className="srodek">

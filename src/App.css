@@ -107,7 +107,7 @@ height: 96px;
 .dol {
   background: center / cover no-repeat url("../public/images/legitkadol.JPEG");
   width: 390px;
-  height: 63px;
+  height: 52px;
   margin-top: -10px;
 }
 
@@ -133,12 +133,13 @@ height: 96px;
 }
 
 .projekt {
-  background: center / cover no-repeat url("../public/images/projekt.gif");
+  background: center / cover no-repeat url("../public/images/flaga.gif");
   width: 65px;
   height: 50px;
   float: left;
   margin-left: 33px;
   margin-top: 40px;
+  border-radius: 15px;
 }
 
 .profil {
